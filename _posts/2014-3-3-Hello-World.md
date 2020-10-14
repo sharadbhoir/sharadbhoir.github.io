@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: ओढ कलेची...
+published: true
 ---
+नमस्कार, 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+मी शरद भोईर आपले स्वागत करतो माझ्या ब्लॉग मध्ये🙏🏼
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+इथे आपल्याला वाचायला भेटतील माझे लेख, जे देश-विदेशातील कला व जीवन ह्याविषयी आपली ओळख करून देतील...
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Happy Reading🙂
